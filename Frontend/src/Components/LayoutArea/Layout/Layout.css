@@ -1,0 +1,12 @@
+.Layout {
+	height: 100%;
+    display: grid;
+    grid-template-rows: 20%;
+}
+
+.Layout main{
+    height: 100%;
+    padding: 20px;
+}
+
+

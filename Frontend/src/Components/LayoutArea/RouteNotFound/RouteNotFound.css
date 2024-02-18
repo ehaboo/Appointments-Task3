@@ -1,0 +1,10 @@
+.RouteNotFound img {
+	max-width: 600px;
+    max-height: 400px;
+    display: block;
+}
+.RouteNotFound{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
